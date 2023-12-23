@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rishikarai70@gmail.com**
 
-- 📄 Know about my experiences **2 internship as Data Analyst**
+- 📄 Know about my experiences **Data Consultant at RMS A Moody's Analytics Co.**
 
 - ⚡ Fun fact **I think I am funny**
 <h3 align="left">Connect with me:</h3>
@@ -31,7 +31,7 @@
 </p>
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Machine Learning Enthusuast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishika70&label=Profile%20views&color=0e75b6&style=flat" alt="rishika70" /> </p>
 
