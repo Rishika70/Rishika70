@@ -44,28 +44,6 @@
 <a href="https://twitter.com/rishikarai70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="rishikarai70" height="30" width="40" /></a>
 </p>
 
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    /* Add your own styles here if needed */
-    body {
-      font-family: 'Arial', sans-serif;
-      padding: 20px;
-    }
-    h2 {
-      color: #0366d6;
-    }
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
-    li {
-      margin-bottom: 5px;
-    }
-  </style>
-</head>
-<body>
 
 <h2>Technologies and Tools</h2>
 
