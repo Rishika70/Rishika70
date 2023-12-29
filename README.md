@@ -1,5 +1,7 @@
-# Hi there! 👋 I'm Rishika Rai      (https://tenor.com/bUCI4.gif)
-# I am currently learning Generative AI and Advanced Deep Learning (https://tenor.com/bWaVl.gif)
+
+
+# Hi there! 👋 I'm Rishika Rai      (https://tenor.com/view/hello-gif-24408873)
+# I am currently learning Generative AI and Advanced Deep Learning (https://tenor.com/view/aprende-computaci%C3%B3n-con-ian-gif-26219005)
 # I am a Machine Learning Enthusiast 👍
 # Fun Fact I think I am Funny 😂
 
