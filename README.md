@@ -1,11 +1,18 @@
 <!--- Hi there! 👋 I'm Rishika Rai, a passionate Data Scientist and ML Engineer. Let's connect and collaborate! -->
 
 # 👩‍💻 Rishika Rai
-I am a Machine Learning Enthusiast !!
+Hello ![HiHiThereGIF](https://github.com/Rishika70/Rishika70/assets/75087210/fa09c6d3-963f-4497-a365-71ac0c4d21a6)
 
-I am currently learning Generative AI and Deep Learning.
+Myself Rishikaa!!
 
-Let's connect and talk more about Artificial Intelligence.
+I am a Machine Learning Enthusiast !! ![ClipWindowsGIF](https://github.com/Rishika70/Rishika70/assets/75087210/0202388f-dc8a-4b61-b81d-c1be8c35d5d3)
+
+I am currently learning Generative AI and Deep Learning.![BrainGIF](https://github.com/Rishika70/Rishika70/assets/75087210/5fb3b3b3-d36d-4522-a10d-2eae68781fe8)
+
+Let's connect and talk more about Artificial Intelligence.![AiGIF](https://github.com/Rishika70/Rishika70/assets/75087210/5a284da6-5f92-4613-a7fc-a0edc99d47cb)
+
+I am open to collaborating on ML Projects. 
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username)
 
