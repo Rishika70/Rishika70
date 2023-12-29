@@ -7,7 +7,7 @@ I'm passionate about machine learning, deep learning, and everything in between.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://path/to/python/logo.png" alt="Python" height="50"/>
+  <img src="https://<div class="tenor-gif-embed" data-postid="27676891" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/python-gif-27676891">Python Sticker</a>from <a href="https://tenor.com/search/python-stickers">Python Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>/to/python/logo.png" alt="Python" height="50"/>
   <img src="https://path/to/pyspark/logo.png" alt="Pyspark" height="50"/>
   <img src="https://path/to/gcp/logo.png" alt="GCP" height="50"/>
   <img src="https://path/to/vertex-ai/logo.png" alt="Vertex AI" height="50"/>
