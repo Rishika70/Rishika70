@@ -1,9 +1,11 @@
 <!--- Hi there! 👋 I'm Rishika Rai, a passionate Data Scientist and ML Engineer. Let's connect and collaborate! -->
 
 # 👩‍💻 Rishika Rai
-"I am a Machine Learning Enthusiast" !!
-"I am currently learning Generative AI and Deep Learning"
-"Let's connect and talk more about Artificial Intelligence"
+I am a Machine Learning Enthusiast !!
+
+I am currently learning Generative AI and Deep Learning.
+
+Let's connect and talk more about Artificial Intelligence.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username)
 
