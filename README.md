@@ -1,4 +1,7 @@
-# Hi there! 👋 I'm Rishika Rai
+# Hi there! 👋 I'm Rishika Rai      (https://tenor.com/bUCI4.gif)
+# I am currently learning Generative AI and Advanced Deep Learning (https://tenor.com/bWaVl.gif)
+# I am a Machine Learning Enthusiast 👍
+# Fun Fact I think I am Funny 😂
 
 Welcome to my GitHub profile! I'm a passionate data scientist and machine learning engineer with expertise in various technologies. Let me tell you a bit about myself:
 
@@ -30,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist and machine learni
 
 I'm a data enthusiast with a keen interest in leveraging technology to solve complex problems. My journey includes working with cutting-edge technologies in the fields of machine learning, data engineering, and cloud computing.
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 😊❤️
  
 
 <br/>  
@@ -39,6 +42,6 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 I want to thank everyone who has helped me with my project work. I should mention a few of them.
 
 - [AlmabBetter](https://www.almabetter.com/), with which I started my Data Science Journey. 
-- [Ayush](https://github.com/SharmaAyush98), [Aman](https://github.com/AMAN-GULERIA), [Saurabh](https://github.com/SaurabhAradwad/SaurabhAradwad) for contributing in my project journey
+- [Ayush](https://github.com/SharmaAyush98), [Aman](https://github.com/AMAN-GULERIA), [Saurabh](https://github.com/SaurabhAradwad/SaurabhAradwad) for contributing in my project journey ❤️😊
 
 
