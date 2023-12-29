@@ -1,42 +1,48 @@
+<!-- Header -->
 # Hi there, I'm Rishika Rai! 👋
 
-I'm passionate about machine learning, deep learning, and everything in between. Currently, I'm diving into the exciting world of Generative AI and Advanced Deep Learning.
+I'm a passionate Data Scientist and Machine Learning Engineer with expertise in various technologies. Currently, I'm diving deep into Generative AI and Advanced Deep Learning.
 
-![Header](https://path/to/header/image.gif)
+<!-- Contact -->
+## 📬 Contact Me
 
-## Tech Stack
+- Gmail: rishikarai70@gmail.com
+- LinkedIn: [Rishika Rai](https://www.linkedin.com/in/rishika-rai-058520149/)
+- Twitter: [@rishikarai70](https://twitter.com/rishikarai70)
 
+<!-- Tech Stack -->
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="link-to-python-logo" alt="Python Logo" width="50" height="50"/>
+  <img src="link-to-pyspark-logo" alt="Pyspark Logo" width="50" height="50"/>
+  <img src="link-to-gcp-logo" alt="GCP Logo" width="50" height="50"/>
+  <img src="link-to-vertex-ai-logo" alt="Vertex AI Logo" width="50" height="50"/>
+  <img src="link-to-looker-logo" alt="Looker Logo" width="50" height="50"/>
+  <img src="link-to-power-bi-logo" alt="Power BI Logo" width="50" height="50"/>
+  <img src="link-to-mlops-logo" alt="MLOps Logo" width="50" height="50"/>
+  <img src="link-to-deep-learning-logo" alt="Deep Learning Logo" width="50" height="50"/>
+  <img src="link-to-nlp-logo" alt="NLP Logo" width="50" height="50"/>
+  <img src="link-to-generative-ai-logo" alt="Generative AI Logo" width="50" height="50"/>
+  <img src="link-to-llm-logo" alt="LLM Logo" width="50" height="50"/>
+  <img src="link-to-gemini-ai-logo" alt="Gemini AI Logo" width="50" height="50"/>
+  <img src="link-to-tensorflow-logo" alt="Tensorflow Logo" width="50" height="50"/>
+  <img src="link-to-keras-logo" alt="Keras Logo" width="50" height="50"/>
+  <img src="link-to-mysql-logo" alt="MySQL Logo" width="50" height="50"/>
+  <img src="link-to-bigquery-logo" alt="BigQuery Logo" width="50" height="50"/>
+  <img src="link-to-kubernetes-logo" alt="Kubernetes Logo" width="50" height="50"/>
+</div>
+
+<!-- Introduction -->
+## 🚀 About Me
+
+- 💼 Currently working on Generative AI and Advanced Deep Learning.
+- 🤔 Fun fact: I am funny!
+
+<!-- Footer -->
 <p align="center">
-  <img src="https://<div class="tenor-gif-embed" data-postid="27676891" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/python-gif-27676891">Python Sticker</a>from <a href="https://tenor.com/search/python-stickers">Python Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>/to/python/logo.png" alt="Python" height="50"/>
-  <img src="https://path/to/pyspark/logo.png" alt="Pyspark" height="50"/>
-  <img src="https://path/to/gcp/logo.png" alt="GCP" height="50"/>
-  <img src="https://path/to/vertex-ai/logo.png" alt="Vertex AI" height="50"/>
-  <img src="https://path/to/looker/logo.png" alt="Looker" height="50"/>
-  <img src="https://path/to/power-bi/logo.png" alt="Power BI" height="50"/>
-  <img src="https://path/to/mlops/logo.png" alt="MLOps" height="50"/>
-  <img src="https://path/to/deep-learning/logo.png" alt="Deep Learning" height="50"/>
-  <img src="https://path/to/nlp/logo.png" alt="NLP" height="50"/>
-  <img src="https://path/to/generative-ai/logo.png" alt="Generative AI" height="50"/>
-  <img src="https://path/to/llm/logo.png" alt="LLM" height="50"/>
-  <img src="https://path/to/gemini-ai/logo.png" alt="Gemini AI" height="50"/>
-  <img src="https://path/to/tensorflow/logo.png" alt="TensorFlow" height="50"/>
-  <img src="https://path/to/keras/logo.png" alt="Keras" height="50"/>
-  <img src="https://path/to/mysql/logo.png" alt="MySQL" height="50"/>
-  <img src="https://path/to/bigquery/logo.png" alt="BigQuery" height="50"/>
-  <img src="https://path/to/kubernetes/logo.png" alt="Kubernetes" height="50"/>
+  <img src="link-to-your-logo" alt="Your Logo" width="100" height="100"/>
 </p>
-
-## About Me
-
-I love coding and experimenting with new technologies. Besides being a tech enthusiast, did you know that I have a great sense of humor? 😄
-
-## Connect with Me
-
-- 📧 Email: rishikarai70@gmail.com
-- 💼 LinkedIn: [Rishika Rai](https://www.linkedin.com/in/rishika-rai-058520149/)
-- 🐦 Twitter: [@rishikarai70](https://twitter.com/rishikarai70)
-
-Feel free to reach out and let's chat about anything tech-related or share a good laugh!
 
 <br/>  
 
