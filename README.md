@@ -1,85 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rishika Rai's Portfolio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
+<!--- Hi there! 👋 I'm Rishika Rai, a passionate Data Scientist and ML Engineer. Let's connect and collaborate! -->
 
-        .logo-container {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            width: 100%;
-            margin-bottom: 20px;
-        }
+# 👩‍💻 Rishika Rai
+![Profile Views](https://komarev.com/ghpvc/?username=your-username)
 
-        .logo-container img {
-            height: 50px;
-            margin-right: 10px;
-        }
+## 📧 Contact
+[![Gmail](https://img.shields.io/badge/Email-rishikarai70%40gmail.com-red)](mailto:rishikarai70@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishika%20Rai-blue)](https://www.linkedin.com/in/rishika-rai-058520149/)
+[![Twitter](https://img.shields.io/badge/Twitter-rishikarai70-blue)](https://twitter.com/rishikarai70)
 
-        .contact-container {
-            display: flex;
-            justify-content: space-between;
-            width: 100%;
-            margin-bottom: 20px;
-        }
+## 🚀 Tech Stack
+- Python ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=white)
+- PySpark ![PySpark](https://img.shields.io/badge/-PySpark-yellow?style=flat&logo=apache-spark&logoColor=white)
+- GCP ![GCP](https://img.shields.io/badge/-GCP-blue?style=flat&logo=google-cloud&logoColor=white)
+- Vertex AI ![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-blue?style=flat&logo=google-cloud&logoColor=white)
+- Looker ![Looker](https://img.shields.io/badge/-Looker-orange?style=flat&logo=looker&logoColor=white)
+- Power BI ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat&logo=microsoft-power-bi&logoColor=white)
+- MLOps ![MLOps](https://img.shields.io/badge/-MLOps-green?style=flat)
+- Deep Learning ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-red?style=flat&logo=tensorflow&logoColor=white)
+- NLP ![NLP](https://img.shields.io/badge/-NLP-red?style=flat&logo=natural-language-processing&logoColor=white)
+- Generative AI ![Generative AI](https://img.shields.io/badge/-Generative%20AI-red?style=flat)
+- LLM ![LLM](https://img.shields.io/badge/-LLM-blue?style=flat)
+- Gemini AI ![Gemini AI](https://img.shields.io/badge/-Gemini%20AI-blue?style=flat)
+- TensorFlow ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white)
+- Keras ![Keras](https://img.shields.io/badge/-Keras-orange?style=flat&logo=keras&logoColor=white)
+- MySQL ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white)
+- BigQuery ![BigQuery](https://img.shields.io/badge/-BigQuery-blue?style=flat&logo=google-cloud&logoColor=white)
+- Kubernetes ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat&logo=kubernetes&logoColor=white)
 
-        .contact-container a {
-            color: #0077B5;
-            text-decoration: none;
-        }
+## 🌟 Fun Fact
+I'm not just into coding and data, I'm also known for my sense of humor. 😄 Ask me for a joke or fun fact, and I'll be happy to share!
 
-        .tech-stack {
-            display: flex;
-            justify-content: space-between;
-            width: 100%;
-            margin-bottom: 20px;
-        }
+<!--- Feel free to customize the information, logos, and styles according to your preferences. You can find logos by searching for the technology name followed by "logo" on Google and selecting the "Images" tab. -->
 
-        .tech-stack img {
-            height: 50px;
-            margin-right: 10px;
-        }
-    </style>
-</head>
-<body>
-    <div class="logo-container">
-        <img src="[GITHUB-LOGO-LINK]" alt="GitHub Logo">
-        <img src="[LINKEDIN-LOGO-LINK]" alt="LinkedIn Logo">
-        <img src="[TWITTER-LOGO-LINK]" alt="Twitter Logo">
-    </div>
-
-    <h1>Rishika Rai</h1>
-    <p>Fun fact: I am funny!</p>
-
-    <div class="contact-container">
-        <a href="mailto:rishikarai70@gmail.com">Email</a>
-        <a href="https://www.linkedin.com/in/rishika-rai-058520149/">LinkedIn</a>
-        <a href="https://twitter.com/rishikarai70">Twitter</a>
-    </div>
-
-    <div class="tech-stack">
-        <img src="[PYTHON-LOGO-LINK]" alt="Python Logo">
-        <img src="[PYSPARK-LOGO-LINK]" alt="PySpark Logo">
-        <img src="[GCLOUD-LOGO-LINK]" alt="Google Cloud Logo">
-        <img src="[VERTEX-AI-LOGO-LINK]" alt="Vertex AI Logo">
-        <img src="[LOOKER-LOGO-LINK]" alt="Looker Logo">
-        <img src="[POWER-BI-LOGO-LINK]" alt="Power BI Logo">
-        <img src="[MLOPS-LOGO-LINK]" alt="MLOps Logo">
-        <img src="[DEEP-LEARNING-LOGO-LINK]" alt="Deep Learning Logo">
-        <img src="[NLP-LOGO-LINK]" alt="NLP Logo">
-        <img src="[GENERATIVE-AI-LOGO-LINK]" alt="Generative AI Logo">
-        <img src="[LLM-LOGO-LINK]" alt="LLM Logo">
-        <img src="[GEMINI-AI-LOGO-LINK]" alt="Gemini AI Logo">
-        <img src="[TENSORFLOW-LOGO-LINK]" alt="Tensorflow Logo">
-        <img src="[KERAS-LOGO-LINK]" alt="Keras Logo">
-        <img src="[MYSQL-LOGO-LINK]" alt="MySQL Logo">
 <br/>  
 
 ## Credits
