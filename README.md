@@ -14,7 +14,7 @@ I'm a passionate Data Scientist and Machine Learning Engineer with expertise in 
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="link-to-python-logo" alt="Python Logo" width="50" height="50"/>
+  <img src="https://tenor.com/view/python-gif-27676891" alt="Python Logo" width="50" height="50"/>
   <img src="link-to-pyspark-logo" alt="Pyspark Logo" width="50" height="50"/>
   <img src="link-to-gcp-logo" alt="GCP Logo" width="50" height="50"/>
   <img src="link-to-vertex-ai-logo" alt="Vertex AI Logo" width="50" height="50"/>
