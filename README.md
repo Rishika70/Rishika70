@@ -23,7 +23,7 @@ I am open to collaborating on ML Projects.
 
 ## 🚀 Tech Stack
 - Python ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=white)
-- ![PyTorch](https://img.shields.io/badge/-PyTorch-yellow?style=flat&logo=pytorch&logoColor=white)
+- PyTorch ![PyTorch](https://img.shields.io/badge/-PyTorch-yellow?style=flat&logo=pytorch&logoColor=white)
 - GCP ![GCP](https://img.shields.io/badge/-GCP-blue?style=flat&logo=google-cloud&logoColor=white)
 - Vertex AI ![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-blue?style=flat&logo=google-cloud&logoColor=white)
 - Looker ![Looker](https://img.shields.io/badge/-Looker-orange?style=flat&logo=looker&logoColor=white)
