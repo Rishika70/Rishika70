@@ -51,6 +51,6 @@ I'm not just into coding and data, I'm also known for my sense of humor. 😄 As
 I want to thank everyone who has helped me with my project work. I should mention a few of them.
 
 - [AlmabBetter](https://www.almabetter.com/), with which I started my Data Science Journey. 
-- [Ayush](https://github.com/SharmaAyush98), [Aman](https://github.com/AMAN-GULERIA), [Saurabh](https://github.com/SaurabhAradwad/SaurabhAradwad) for contributing in my project journey ❤️😊
+- [Woolf University](https://woolf.university/), with which I started My Masters in Computer Science- Data Science and AI ❤️😊
 
 
