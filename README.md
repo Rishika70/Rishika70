@@ -7,7 +7,7 @@ Myself Rishikaa!!👩‍🦳❤️
 
 I am a Machine Learning Enthusiast !!🔭👩‍🦳
 
-I am currently learning Generative AI and Deep Learning.
+I am currently Pursuing Master's in Computer Science in Data science and AI 👩‍💻⚙️
 
 Let's connect and talk more about Artificial Intelligence.🔭⚙️
 
