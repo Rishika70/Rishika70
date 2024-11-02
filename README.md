@@ -13,7 +13,7 @@ Let's connect and talk more about **Artificial Intelligence** and its transforma
 
 I am open to collaborating on ML Projects. Here’s a glimpse of my progress:
 
-- **Streak**: 🔥 30 days of continuous coding!
+- [![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
 - **Commits**: 📊 50+ contributions in the last month!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username)
