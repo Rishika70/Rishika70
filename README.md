@@ -13,8 +13,7 @@ Let’s connect to explore **Artificial Intelligence** and its transformative po
 ---
 
 ## 🌱 Current Progress
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?https://github.com/Rishika70/)](https://github.com/Rishika70)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishika70&show_icons=true&theme=radical)](https://github.com/Rishika70)
 
 ---
 
