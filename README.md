@@ -7,7 +7,8 @@ Myself Rishikaa!!👩‍🦳❤️
 
 I am a **Machine Learning Enthusiast**!!🔭👩‍🦳
 
-Currently, I'm pursuing my **Master's in Computer Science** with a focus on **Data Science** and **AI** 👩‍💻⚙️. My interests lie in **Advanced Machine Learning** and **Quantum Learning**. 
+Currently, I'm pursuing my **Master's in Computer Science** with a focus on **Data Science** and **AI** 👩‍💻⚙️. 
+My interests lie in **Advanced Machine Learning** and **Quantum Theories**. 
 
 Let's connect and talk more about **Artificial Intelligence** and its transformative potential!🔭⚙️
 
