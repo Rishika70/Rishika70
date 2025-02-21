@@ -54,7 +54,7 @@ I’m known for my sense of humor. 😄 Ask me for a joke or a fun fact anytime!
 ## 🎓 Credits
 I’m grateful to everyone who’s supported me in my data science journey:
 - [Almabetter](https://www.almabetter.com/) – where my data science journey began.
-- [Woolf University](https://woolf.university/) – where I’m pursuing my Master’s in Computer Science, specializing in Data Science and AI ❤️😊  
+- [Woolf University](https://woolf.university/) – where I’m pursuing my Master’s in Computer Science, specializing in ML and AI ❤️😊  
 
 ---
 
