@@ -1,3 +1,6 @@
+![giphy](https://github.com/user-attachments/assets/1e484bc2-2efb-4d72-b755-4434ea6b269e)
+
+
 <!--- Hi there! 👋 I'm Rishika Rai, a passionate Data Scientist and ML Engineer. Let's connect and collaborate! -->
 
 <!--- Hi there! 👋 I'm Rishika Rai, a passionate Data Scientist and ML Engineer. Let's connect and collaborate! -->
