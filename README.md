@@ -1,8 +1,3 @@
-
-![F6DZ](https://github.com/user-attachments/assets/4b59bde5-5dc9-4f04-ac23-319e0afd6001)
-
-
-
 <!--- Hi there! 👋 I'm Rishika Rai, a passionate Data Scientist and ML Engineer. Let's connect and collaborate! -->
 
 <!--- Hi there! 👋 I'm Rishika Rai, a passionate Data Scientist and ML Engineer. Let's connect and collaborate! -->
@@ -16,6 +11,8 @@ Currently, I’m pursuing a **Master's in Computer Science** with a focus on **M
 Let’s connect to explore **Artificial Intelligence** and its transformative potential. I’m open to collaborating on exciting ML projects!
 
 ---
+
+![F6DZ](https://github.com/user-attachments/assets/4b59bde5-5dc9-4f04-ac23-319e0afd6001)
 
 ## 🌱 Current Progress
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishika70&show_icons=true&theme=radical)](https://github.com/Rishika70)
