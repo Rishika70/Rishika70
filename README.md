@@ -1,4 +1,6 @@
-![giphy](https://github.com/user-attachments/assets/1e484bc2-2efb-4d72-b755-4434ea6b269e)
+
+![F6DZ](https://github.com/user-attachments/assets/4b59bde5-5dc9-4f04-ac23-319e0afd6001)
+
 
 
 <!--- Hi there! 👋 I'm Rishika Rai, a passionate Data Scientist and ML Engineer. Let's connect and collaborate! -->
@@ -57,6 +59,9 @@ I’m known for my sense of humor. 😄 Ask me for a joke or a fun fact anytime!
 ## 🎓 Credits
 I’m grateful to everyone who’s supported me in my data science journey:
 - [Almabetter](https://www.almabetter.com/) – where my data science journey began.
+
+ ![9qax](https://github.com/user-attachments/assets/e90a17fb-cf83-4ca1-8163-505a1a32faf3)
+ 
 - [Woolf University](https://woolf.university/) – where I’m pursuing my Master’s in Computer Science, specializing in ML and AI ❤️😊  
 
 ---
