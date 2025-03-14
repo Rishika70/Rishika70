@@ -4,7 +4,7 @@
 
 # 👩‍💻 Rishika Rai
 
-**HELLO! 🙌**  I'm Rishika Rai, a **Machine Learning Enthusiast** passionate about **Advanced Machine Learning**  **Quantum Theories**  **Neuroscience**  **Psychology**  **Meta-Philosophy**!!!
+**HELLO! 🙌**  I'm Rishika Rai, a **Machine Learning Enthusiast** passionate about **Advanced Machine Learning**   **Quantum Theories**   **Neuroscience**   **Psychology** and **Meta-Philosophy**!!!
  
 Currently, I’m pursuing a **Master's in Computer Science** with a focus on **ML** and **AI**.
 
