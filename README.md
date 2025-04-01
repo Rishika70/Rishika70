@@ -23,7 +23,8 @@ Let’s connect to explore **Artificial Intelligence** and its transformative po
 
 ## 📧 Contact
 
-[![Gmail](https://img.shields.io/badge/Email-rishikarai70%40gmail.com-red)](mailto:rishikarai4488@gmail.com,rishikarai4488@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Email-rishikarai70%40gmail.com-red)](mailto:rishikarai70@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Email-rishikarai4488%40gmail.com-red)](mailto:rishikarai4488@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishika%20Rai-blue)](https://www.linkedin.com/in/rishika-rai-058520149/)  
 [![Twitter](https://img.shields.io/badge/Twitter-rishikarai70-blue)](https://twitter.com/rishikarai70)
 
